@@ -1,0 +1,17 @@
+fnt font sansation.ttf
+ico lchicken henway.ico
+ico lhead henway_sm.ico
+img car1 car1.png
+img car2 car2.png
+img car3 car3.png
+img car4 car4.png
+img chicken chicken.png
+img chickenhead chickenhead.png
+img highway highway.png
+mus music music.ogg
+snd bok bok.wav
+snd carhorn1 carhorn1.wav
+snd carhorn2 carhorn2.wav
+snd celebrate celebrate.wav
+snd gameover gameover.wav
+snd squish squish.wav
